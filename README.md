@@ -1,0 +1,2 @@
+# bulgar_housedecoration_config_example
+bulgar_housedecoration_config_example
